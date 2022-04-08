@@ -29,6 +29,10 @@
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PackageProjectUrl>https://github.com/SkyCD/SkyCD.CompressedTextFormat.dll</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SkyCD/SkyCD.CompressedTextFormat.dll</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Authors>SkyCD</Authors>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DefineTrace>false</DefineTrace>
