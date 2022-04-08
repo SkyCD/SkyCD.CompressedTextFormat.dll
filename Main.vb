@@ -1,9 +1,10 @@
-Imports SkyCD_Simple
 Imports System.IO
-Imports SkyCD.Libraries.AdvancedFunctions.Strings
+Imports SkyCD.AdvancedFunctions.Strings
+Imports Convert2 = SkyCD.AdvancedFunctions.Convert
+Imports SkyCD.Simple
 
 Public Class Main
-    Inherits SkyCD_Simple.skycd_simple
+    Inherits skycd_simple
     Implements iFileFormat
 
     Private db As Database.iConnection
