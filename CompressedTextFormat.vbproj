@@ -93,6 +93,6 @@
   <ItemGroup>
     <PackageReference Include="SkyCD.AdvancedFunctions.dll" Version="0.6.0" />
     <PackageReference Include="SkyCD.Core.dll" Version="0.5.0" />
-    <PackageReference Include="SkyCD.Simple" Version="0.7.0" />
+    <PackageReference Include="SkyCD.Simple" Version="0.8.0" />
   </ItemGroup>
 </Project>
